@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "追溯"
+date:   2016-09-07 14:34:25
+categories: FLCos show
+tags: MES
+image: /assets/images/process_top.jpg
+---
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 可追溯性是FLCos另一重要特性，这对生产来说非常重要，FLCos全程追踪，严格检查和跟踪物料的流向，通过条码自动检查物料的正确性，避免了人工的干扰。
+
+
+
+[jekyll]:      http://jekyllrb.com
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-help]: https://github.com/jekyll/jekyll-help

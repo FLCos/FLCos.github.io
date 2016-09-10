@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "基于网页/轻量"
+date:   2016-09-08 14:34:25
+categories: FLCos show
+tags: MES
+image: /assets/images/produce.jpg
+---
+FLCos只要求客户端安装网页浏览器，对系统没有严格的要求.<br>
+整个服务运行在Linux系统平台上，使得系统资源运行高效，稳定；由于集成了OPCUA等组件，系统部署简单，无需安装其他应用程序。
+另一方面从系统到组件都是免费的，也大大节省了成本。<br>
+FLCos有一套防崩溃机制，当有异常服务器无法处理时，会自动重启。
+主页面第一次打开时间只需2秒左右，以后打开的响应时间以毫秒计。<br>
+画面实时更新，可以让中控员把控整个工厂的情况。
+
+
+[jekyll]:      http://jekyllrb.com
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-help]: https://github.com/jekyll/jekyll-help

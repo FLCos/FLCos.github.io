@@ -1,2 +1,1 @@
-# FLCos.github.io
-Intoduction for web MES
+FLCos是一款Web MES，它的特点是快速，轻量，高效。
