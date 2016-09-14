@@ -7,9 +7,3 @@ tags: MES
 image: /assets/images/label.jpg
 ---
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 自主研发的标签管理，使FLCos支持自动连续的打印标签。标签模板修改简单。
-
-
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help

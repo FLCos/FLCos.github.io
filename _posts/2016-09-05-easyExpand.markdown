@@ -7,8 +7,3 @@ tags: MES
 image: /assets/images/coding.jpg
 ---
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;程序结构清晰，只需根据提供的接口，可以灵活的适应新的要求。
-
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help

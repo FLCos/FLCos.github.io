@@ -22,6 +22,3 @@ FLCos有一套防崩溃机制，当有异常服务器无法处理时，会自动
 
 OPC列表：<br>
 <img src="/assets/images/PLC.jpg" alt="diagram" width= "100%"/>
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help

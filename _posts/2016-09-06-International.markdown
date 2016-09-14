@@ -7,10 +7,3 @@ tags: MES
 image: /assets/images/international.jpg
 ---
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FLCos非常灵活的支持多国语言，只需配置一下，就可以增加另外一种语言。<br>
-
-
-
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
