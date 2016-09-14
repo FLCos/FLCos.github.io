@@ -14,14 +14,14 @@ FLCos有一套防崩溃机制，当有异常服务器无法处理时，会自动
 画面实时更新，可以让中控员把控整个工厂的情况。
 <br>
 数据管理<br>
-<img src="/assets/images/dataManage.jpg" alt="diagram" width= 100%/>
+<img src="/assets/images/dataManage.jpg" alt="diagram" width= "100%"/>
 <br>
 点击设备，打开设备对话框，可以手动控制设备：    <br>
-<img src="/assets/images/SimpleMotor-cn.jpg" alt="diagram" width= 100%/>   <br>
+<img src="/assets/images/SimpleMotor-cn.jpg" alt="diagram" width= "100%"/>   <br>
 
 
 OPC列表：<br>
-<img src="/assets/images/PLC.jpg" alt="diagram" width= 100%/>
+<img src="/assets/images/PLC.jpg" alt="diagram" width= "100%"/>
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-help]: https://github.com/jekyll/jekyll-help
